@@ -1,0 +1,35 @@
+.bar{
+    width: 250px;
+    height: 50px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    border: 2px solid;
+    border-color: black;
+}
+
+.inputs {
+    width: max-content; 
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.inputs button {
+    width: 60px;
+    height: 40px;
+    font-size: 18px;
+}
+
+.one{
+    margin-left: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    border: 2px solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 300px;
+    border-color: black;
+    border-radius: 20px;
+}
